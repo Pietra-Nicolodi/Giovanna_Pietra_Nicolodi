@@ -8,19 +8,19 @@
 
 ## About Me
 
-🕵️ &nbsp;QA Analyst || Tester
-📊 &nbsp;Data Administrator (DA) || Database Administrator (DBA)
-🎓 &nbsp;Informatics - IFC || Networking and Computing Maintenance - SENAI
-⚡ &nbsp;Computer Engineering - UFSC
-🎖️ &nbsp;Internet of Things - Stanford  || DataEx
+🕵️ &nbsp;QA Analyst || Tester  
+📊 &nbsp;Data Administrator (DA) || Database Administrator (DBA)  
+🎓 &nbsp;Informatics - IFC || Networking and Computing Maintenance - SENAI  
+⚡ &nbsp;Computer Engineering - UFSC  
+🎖️ &nbsp;Internet of Things - Stanford  || DataEx  
 📚 &nbsp;[Licenses & certifications](https://ufscbr-my.sharepoint.com/:f:/g/personal/g_pietra_nicolodi_ufsc_br/Ep5sey19a7FDoJ8-gnpyR2cBlYsHCasvReKiga3eBY3FUw?e=saFp5R)
 
 
 ## Experiência Profissional
 
-🕵🏻 &nbsp;[2022/April - Present] QA Tester 
-🕵🏻 &nbsp;[2020/Feb - 2022/Feb] QA Analyst  
-🧪 &nbsp;[2019/Mar - 2019/Oct] Tester 
+🕵🏻 &nbsp;[2022/April - Present] QA Tester   
+🕵🏻 &nbsp;[2020/Feb - 2022/Feb] QA Analyst   
+🧪 &nbsp;[2019/Mar - 2019/Oct] Tester  
 
 ## 🛠️ Skills
 
