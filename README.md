@@ -29,8 +29,8 @@
 
 ### 🧪 Testing
 
-![Postman](https://img.shields.io/badge/Postman?style=for-the-badge&logo=postman&logoColor=white)
-![Selnium](https://img.shields.io/badge/Selenium-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ed441a?style=for-the-badge&logo=postman&logoColor=white)
+![Selnium](https://img.shields.io/badge/Selenium-30a31c7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### 🛢 Database
 
