@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=giovannapietranicolodi" alt="giovannapietranicolodi's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-GiovannaPietraNicolodi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannapietranicolodi/?locale=en_US)](https://www.linkedin.com/in/giovannapietranicolodi/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-GiovannaPietraNicolodi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannapietranicolodi/?locale=en_US)](https://www.linkedin.com/in/giovannapietranicolodi/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-giovannapietranicolodi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovannapietranicolodi@gmail.com)](mailto:giovannapietranicolodi@gmail.com)
 <!--![Giovanna Pietra Nicolodi's github stats](https://github-readme-stats.vercel.app/api?username=giovannapietranicolodi&show_icons=true&theme=tokyonight)-->
 
