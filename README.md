@@ -26,7 +26,7 @@
 
 ### :wrench: Tools 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-#2a52bf?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-2a52bf?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ### 🧪 Testing
 
