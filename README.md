@@ -14,7 +14,7 @@
 🎖️ &nbsp;Internet of Things - Stanford  |  DataEx  
 ⚡ &nbsp;Computer Engineering - UFSC  
 💬 &nbsp;Portuguese  |  English  |  Spanish  
-📚 &nbsp;[Licenses & certifications](https://ufscbr-my.sharepoint.com/:f:/g/personal/g_pietra_nicolodi_ufsc_br/Ep5sey19a7FDoJ8-gnpyR2cBlYsHCasvReKiga3eBY3FUw?e=saFp5R)
+📚 &nbsp;[Certifications](https://ufscbr-my.sharepoint.com/:f:/g/personal/g_pietra_nicolodi_ufsc_br/Ep5sey19a7FDoJ8-gnpyR2cBlYsHCasvReKiga3eBY3FUw?e=saFp5R)
 
 
 ## Experience
