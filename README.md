@@ -10,7 +10,7 @@
 
 🕵️ &nbsp;QA Analyst  |  Tester  
 🎓 &nbsp;Informatics - IFC  |  Networking and Computing Maintenance - SENAI  
-🎖️ &nbsp;Internet of Things - Stanford 
+🎖️ &nbsp;Internet of Things - Stanford  
 ⚡ &nbsp;Computer Engineering - UFSC  
 💬 &nbsp;Portuguese  |  English  |  Spanish  
 📚 &nbsp;[Certifications](https://ufscbr-my.sharepoint.com/:f:/g/personal/g_pietra_nicolodi_ufsc_br/Ep5sey19a7FDoJ8-gnpyR2cBlYsHCasvReKiga3eBY3FUw?e=saFp5R)
