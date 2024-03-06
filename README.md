@@ -9,7 +9,7 @@
 ## About Me
 
 🕵️ &nbsp;QA Analyst || Tester
-📊 &nbsp;Data Administrator (DA) || Database Administrator (DBA) 
+📊 &nbsp;Data Administrator (DA) || Database Administrator (DBA)
 🎓 &nbsp;Informatics - IFC || Networking and Computing Maintenance - SENAI
 ⚡ &nbsp;Computer Engineering - UFSC
 🎖️ &nbsp;Internet of Things - Stanford  || DataEx
