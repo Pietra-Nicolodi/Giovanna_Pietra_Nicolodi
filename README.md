@@ -46,3 +46,4 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2abfb5?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://badgen.net/badge/sql/?icon=[sql])
