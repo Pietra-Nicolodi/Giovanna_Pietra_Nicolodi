@@ -26,14 +26,14 @@
 
 #### :wrench: Tools 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Atlassian-2a52bf?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-2a52bf?style=for-the-badge&logo=atlassin-devops&logoColor=white)
 
 #### 🧪 Testing
 
 ![Postman](https://img.shields.io/badge/Postman-ed441a?style=for-the-badge&logo=postman&logoColor=white)
-![Selnium](https://img.shields.io/badge/Selenium-30a31c7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-2abf75?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Orange](https://img.shields.io/badge/Orange-e34519?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Selnium](https://img.shields.io/badge/Selenium-30a31c7?style=for-the-badge&logo=selenium-devops&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-2abf75?style=for-the-badge&logo=cypress-devops&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-e34519?style=for-the-badge&logo=orange-devops&logoColor=white)
 
 #### 🛢 Database
 
@@ -45,4 +45,4 @@
 #### 👨🏻‍💻 Code
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2abfb5?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2abfb5?style=for-the-badge&logo=sql&logoColor=white)
