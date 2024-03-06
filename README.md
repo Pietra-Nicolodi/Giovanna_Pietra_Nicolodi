@@ -1,11 +1,43 @@
-👋 **Hey, I’m Giovanna Pietra Nicolodi**
+# Giovanna Pietra Nicolodi
 
-🎓 I started studying STEM with a technical course in Maintenance in Microcomputers and Informatics at SENAI, which I graduated in 2018.
-    I graduated as a Computer Technician at Instituto Federal Catarinense, in 2022.
-    Currently, I'm studying Computer Engineering at Federal University of Santa Catarina.
+<img align="right" src="https://komarev.com/ghpvc/?username=giovannapietranicolodi" alt="giovannapietranicolodi's Profile Views" />
 
-💻 I've been working with QA for over 2 years now, in the experiences I've had, I've been able to actively work with both the requirements and modeling part, 
-   as well as the elaboration, execution and documentation parts of the tests, both manual and automation.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-giovannapietranicolodi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannapietranicolodi/)](https://www.linkedin.com/in/giovannapietranicolodi/) 
+[![Gmail Badge](https://img.shields.io/badge/-giovannapietranicolodi.me@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovannapietranicolodi.me@gmail.com)](mailto:giovannapietranicolodi@gmail.com)
+<!--![Giovanna Pietra Nicolodi's github stats](https://github-readme-stats.vercel.app/api?username=giovannapietranicolodi&show_icons=true&theme=tokyonight)-->
 
-📱 You can find me here: https://www.linkedin.com/in/giovannapietranicolodi/?locale=en_US
+## About Me
 
+🕵️ &nbsp;QA Analyst || Tester
+📊 &nbsp;Data Administrator (DA) || Database Administrator (DBA) 
+🎓 &nbsp;Informatics - IFC || Networking and Computing Maintenance - SENAI
+⚡ &nbsp;Computer Engineering - UFSC
+🎖️ &nbsp;Internet of Things - Stanford  || DataEx
+📚 &nbsp;[Licenses & certifications](https://ufscbr-my.sharepoint.com/:f:/g/personal/g_pietra_nicolodi_ufsc_br/Ep5sey19a7FDoJ8-gnpyR2cBlYsHCasvReKiga3eBY3FUw?e=saFp5R)
+
+
+## Experiência Profissional
+
+🕵🏻 &nbsp;[2022/April - Present] QA Tester 
+🕵🏻 &nbsp;[2020/Feb - 2022/Feb] QA Analyst  
+🧪 &nbsp;[2019/Mar - 2019/Oct] Tester 
+
+## 🛠️ Skills
+
+### :wrench: Tools and environments
+![[Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### 🧪 Testing
+
+![Postman](https://img.shields.io/badge/Postman-C21325?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛢 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 👨🏻‍💻 Code
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
